@@ -25,6 +25,6 @@ MongoDB, Express.js, Angular, Node.js
   app.module.ts                                    # Main module inside which we declare all the components and import other modules for our project
 ```
 
-### ANgular Material UI
+### Angular Material UI
 
 ` ng add @angular/material `
